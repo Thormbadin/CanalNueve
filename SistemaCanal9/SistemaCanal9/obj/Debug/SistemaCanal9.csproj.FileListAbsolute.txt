@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\bin\Debug\SistemaCanal9.exe.config
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\bin\Debug\SistemaCanal9.exe
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\bin\Debug\SistemaCanal9.pdb
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\obj\Debug\SistemaCanal9.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\obj\Debug\SistemaCanal9.Form1.resources
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\obj\Debug\SistemaCanal9.Properties.Resources.resources
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\obj\Debug\SistemaCanal9.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\obj\Debug\SistemaCanal9.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\obj\Debug\SistemaCanal9.exe
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\obj\Debug\SistemaCanal9.pdb
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\obj\Debug\SistemaCanal9.Clientes.resources
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\obj\Debug\SistemaCanal9.Opciones.resources
+C:\Users\Usuario\source\repos\SistemaCanal9\SistemaCanal9\obj\Debug\SistemaCanal9.Bodega.resources
